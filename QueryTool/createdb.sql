@@ -1,0 +1,9 @@
+CREATE DATABASE amazon_user_db;
+CREATE DATABASE amazon_product_db;
+CREATE DATABASE amazon_order_db;
+CREATE DATABASE amazon_inventory_db;
+CREATE DATABASE amazon_payment_db;
+CREATE DATABASE amazon_notification_db;
+CREATE DATABASE amazon_review_db;
+CREATE DATABASE amazon_shipping_db;
+CREATE DATABASE amazon_admin_db;
